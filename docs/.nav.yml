@@ -1,0 +1,11 @@
+use_index_title: true
+
+nav:
+  - vkh6
+  - software
+  - 3D Viewer: https://library.vkbots.com/viewer/
+  - Official Site: https://vkbots.com/
+  - actuators
+  - rl
+  - remapping
+  - others
